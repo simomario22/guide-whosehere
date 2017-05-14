@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "507600485378",
+    "firebase_url": "https://guide-for-whosehere.firebaseio.com",
+    "project_id": "guide-for-whosehere",
+    "storage_bucket": "guide-for-whosehere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507600485378:android:6ed7149e52d1c64f",
+        "android_client_info": {
+          "package_name": "com.tips.guide_whosehere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507600485378-v7n4hnmoa043pq4tbv9tq7kkfrf2oj0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tips.guide_whosehere",
+            "certificate_hash": "9269f4cd10d689faa50829933245d390c88bbff9"
+          }
+        },
+        {
+          "client_id": "507600485378-qqitl7ab4sj7m90ae6hbjbmmvgsf6e9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJNaRs6zoDs8AvFCLCu4ErPRZ0RXczrwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507600485378-qqitl7ab4sj7m90ae6hbjbmmvgsf6e9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
